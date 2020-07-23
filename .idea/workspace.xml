@@ -2,22 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ef53b68-645c-443f-b762-189ae7a440f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../dev.shroysha.ipr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resumegen/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../buildSrc/src/main/groovy/dev/shroysha/buildSrc/DevShroyshaTask.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/../../buildSrc/src/main/groovy/dev/shroysha/buildSrc/DevShroyshaTask.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dev.shroysha.iws" beforeDir="false" afterPath="$PROJECT_DIR$/../../dev.shroysha.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../private/stocks-gym-tensorflow" beforeDir="false" afterPath="$PROJECT_DIR$/../../private/stocks-gym-tensorflow" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.." beforeDir="false" afterPath="$PROJECT_DIR$/.." afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/resume-gen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/resumegen.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/resumegen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/resumegen.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__main__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pics/Untitled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pics/Untitled2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pics/Untitled3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pics/Untitled4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume_info.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resumegen/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/resumegen/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resumegen/resume_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/resumegen/resume_info.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +33,12 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -94,16 +87,23 @@
       <workItem from="1585103464910" duration="131000" />
       <workItem from="1585709343028" duration="45000" />
       <workItem from="1585709711880" duration="5000" />
+      <workItem from="1593752078679" duration="4387000" />
+      <workItem from="1594366858617" duration="16000" />
+      <workItem from="1594366894702" duration="6531000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="349" y="132" key="SettingsEditor" timestamp="1585103528883">
+    <state x="368" y="102" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594522966995">
       <screen x="0" y="22" width="1680" height="942" />
     </state>
-    <state x="349" y="132" key="SettingsEditor/0.22.1680.942@0.22.1680.942" timestamp="1585103528883" />
+    <state x="368" y="102" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.22.1680.942@0.22.1680.942" timestamp="1594522966995" />
+    <state x="505" y="238" width="670" height="676" key="search.everywhere.popup" timestamp="1594367498625">
+      <screen x="0" y="22" width="1680" height="942" />
+    </state>
+    <state x="505" y="238" width="670" height="676" key="search.everywhere.popup/0.22.1680.942@0.22.1680.942" timestamp="1594367498625" />
   </component>
 </project>
