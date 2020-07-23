@@ -1,7 +1,7 @@
 # resumegen
 
 ## Description
-null
+Resume generator for creating different formats easily
 
 ### Tags
 [Python]
